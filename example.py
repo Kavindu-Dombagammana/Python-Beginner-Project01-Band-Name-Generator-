@@ -26,3 +26,8 @@ print("""Shopping List\n
 3. Butter
 5. Tomato
 6. Beef""")
+
+#Input function to give user inputs to the system
+# input("What is your name?")
+
+print("Hello " + input("What is your name?") + "!")
